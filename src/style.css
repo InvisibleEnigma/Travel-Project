@@ -1,7 +1,6 @@
-h1 {
-  font-family: "Macondo Swash Caps", cursive;
-  font-weight: 400;
-  font-size: 50px;
-  font-style: normal;
-  color: red;
+header {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    url(../images/header-image.png);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
